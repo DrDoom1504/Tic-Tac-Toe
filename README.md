@@ -13,7 +13,6 @@ A modern and interactive Tic Tac Toe web application built using **React**, **Ty
 
 - 🔁 **Move History** with Undo/Redo
 - 📊 **Game Status Display** (Current player, Winner)
-- ⚙️ **GraphQL-powered Data Layer** via Firebase DataConnect
 - 🎨 **Tailwind CSS** styling for a modern UI
 - 💡 **React + TypeScript** architecture
 
