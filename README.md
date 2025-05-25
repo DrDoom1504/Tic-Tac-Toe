@@ -21,7 +21,7 @@ A modern and interactive Tic Tac Toe web application built using **React**, **Ty
 
 ## 🛠️ Installation & Setup
 
-> Ensure you have **Node.js** and **Firebase CLI** installed.
+> Ensure you have **Node.js**.
 
 # 1. Clone the repo
 git clone https://github.com/drdoom1504/drdoom1504-tic-tac-toe.git
